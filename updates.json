@@ -1,1 +1,13 @@
-{ "addons": { "qrdestock-extension@qr-developpement.fr": { "updates": [] } } }
+{
+  "addons": {
+    "qrdestock-extension@qr-developpement.fr": {
+      "updates": [
+        {
+          "version": "0.4.6",
+          "update_link": "https://github.com/QR-developpement/qrdestock-extension-releases/releases/download/v0.4.6/qrdestock-extension-0.4.6.xpi",
+          "update_hash": "sha256:1ebdea223dc9de77a455972b168a84410dfb49ea0c4f06dccf0ea5a658e4217c"
+        }
+      ]
+    }
+  }
+}
