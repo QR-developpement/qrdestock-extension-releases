@@ -3,9 +3,9 @@
     "qrdestock-extension@qr-developpement.fr": {
       "updates": [
         {
-          "version": "0.10.17",
-          "update_link": "https://github.com/QR-developpement/qrdestock-extension-releases/releases/download/v0.10.17/qrdestock-extension-0.10.17.xpi",
-          "update_hash": "sha256:8f6d0787093c347653799da46c5632f3a430d33fc513044c1c04e52fe6da9cab"
+          "version": "0.10.18",
+          "update_link": "https://github.com/QR-developpement/qrdestock-extension-releases/releases/download/v0.10.18/qrdestock-extension-0.10.18.xpi",
+          "update_hash": "sha256:990885097d8551d900cfa5134084b65add600ba61723cb1e22bfee571e0c7c30"
         }
       ]
     }
